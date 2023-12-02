@@ -1,10 +1,11 @@
  
-  # README Generator
-  // add license
+  # README GENERATOR
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  Generates a ReadME file easily
+  Quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
 
   ## Table of Contents
 
@@ -18,27 +19,27 @@
 
   ## Installation
 
-  npm install
+  Run npm install to install "inquirer"
 
   ## Usage
 
-  To save time on README Generation
+  Used to easily generate README files from the command line
 
   ## License
 
-  MIT
+  This application is covered under the MIT license
 
   ## Contributing 
 
-  Fork the Repo
+  Please fork the project to contribute
 
   ## Tests
 
-  No Tests
+  There are no tests for the project
 
   ## Questions
   
   - GitHub Username: Erik-Aku
 
-  - You can contact me at: erikaku@gmail.com
+  - You can contact me at: erikaku45@gmail.com
 
