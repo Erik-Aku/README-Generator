@@ -34,3 +34,6 @@
 
 ![Screenshot 2023-12-03 at 12 13 40 PM](https://github.com/Erik-Aku/README-Generator/assets/92487526/f8262c8b-f22c-4d0f-92e8-2d0671e94afe)
 
+
+![final_README md](https://github.com/Erik-Aku/README-Generator/assets/92487526/dc50abe1-f2e7-4593-bf56-3ae061de3169)
+
