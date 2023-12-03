@@ -1,7 +1,7 @@
  
-  # README GENERATOR
+  # README Generator
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
   ## Description
 
@@ -23,23 +23,24 @@
 
   ## Usage
 
-  Used to easily generate README files from the command line
+  This project is used to generate a README file from the command line to save the devloper time
 
   ## License
-
-  This application is covered under the MIT license
+  
+  - [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  - This application is covered under the Boost Software License 1.0 license.
 
   ## Contributing 
 
-  Please fork the project to contribute
+  Please fork the project to conrtribute
 
   ## Tests
 
-  There are no tests for the project
+  There are no test for this project
 
   ## Questions
   
-  - GitHub Username: Erik-Aku
+  - GitHub Username: [erik-aku](https://github.com/Erik-Aku)
 
   - You can contact me at: erikaku45@gmail.com
 

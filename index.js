@@ -2,6 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 
+// returns the correct license badge and url 
 function renderLicenseBadge(license) {
     if (license === 'Apache') {
       return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
@@ -26,7 +27,6 @@ function renderLicenseBadge(license) {
     }
   }
   
-
 
 //Questions for user input
 const questions = [
@@ -99,14 +99,14 @@ const questions = [
 ];
 
 
-// TODO: Create a function to write README file
+// Function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, generateMarkdown(data), (err) => 
     err ? console.log(err) : console.log('Successfully created README!')
     );
 }
 
-// TODO: Create a function to initialize app
+// Function to initialize app
 function init() {
     inquirer.prompt(questions).then((data) => {
     JSON.stringify(data);
